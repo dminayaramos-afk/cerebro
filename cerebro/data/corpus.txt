@@ -1,0 +1,10 @@
+hola, ¿cómo estás?
+estoy bien, gracias por preguntar.
+el sistema optimizado corre en la cpu local de forma eficiente.
+la memoria de largo plazo guarda información importante para el usuario.
+el agente controlado ejecuta herramientas de forma segura y limitada.
+este modelo fue creado desde cero, sin frameworks externos de aprendizaje.
+el entrenamiento usa retropropagación real sobre una arquitectura transformer pequeña.
+la cpu del asus x550lc tiene recursos limitados, así que el modelo es compacto.
+cada palabra nueva se agrega al vocabulario hasta llenar el límite configurado.
+el objetivo de este proyecto es aprender cómo funciona un modelo de lenguaje por dentro.

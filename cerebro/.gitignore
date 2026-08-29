@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+cache/
+checkpoints/
+learning/
+memory/memory_store.json
+data/vocab.json
+data/workspace/

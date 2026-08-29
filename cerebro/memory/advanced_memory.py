@@ -2,9 +2,12 @@ import os
 import json
 import datetime
 
+import config
+
+
 class AdvancedMemoryManager:
-    def __init__(self, filepath="MI_CEREBRO_IA/etapa_18_memoria_avanzada/memory_store.json"):
-        self.filepath = filepath
+    def __init__(self, filepath=None):
+        self.filepath = filepath or config.MEMORY_FILE
         self.short_term_context = []  # Contexto activo de corto plazo
         self.long_term_memory = {}    # Memoria de largo plazo con metadatos
         self.cargar_memoria()
